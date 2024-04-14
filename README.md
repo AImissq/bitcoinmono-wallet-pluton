@@ -59,6 +59,8 @@ Run the wallet.
 ```bash
 $ yarn start
 ```
+*I found the default public node would refuse to sync, the developers have usefully detailed alternatives here - https://github.com/bitcoinmono/bitcoinmono-nodes-json
+
 
 ### Starting Development
 
